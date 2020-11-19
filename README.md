@@ -38,7 +38,7 @@ Decision Tree, Naive bayesian classification and KNN Classification. Decided to 
 ## Featured Notebooks/Analysis/Deliverables
 * [Jupyter Notebook](link)
 * [Tableau Workbook](link)
-* [Mysql Workbench](link)
+* [Mysql Workbench](https://github.com/QQber/classification-case-creditcard/blob/master/SQL_questions.sql)
 * [Powerpoint Presentation](link)
 * [Original Data Excel](https://github.com/QQber/classification-case-creditcard/blob/master/creditcardmarketing.csv)
 
