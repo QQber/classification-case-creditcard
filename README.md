@@ -1,5 +1,3 @@
-# classification-case-creditcard
-
 # Classification Machine learninng for a Bank Credit Card offer
 This project is a part of the [IRON HACK](http://https://www.ironhack.com/en) at Berlin Data Camo. Other Bootcamp projects can be found at the [main GitHub repo](https://https://github.com/QQber).
 
