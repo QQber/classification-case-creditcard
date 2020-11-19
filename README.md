@@ -39,7 +39,7 @@ Decision Tree, Naive bayesian classification and KNN Classification. Decided to 
 * [Jupyter Notebook](https://github.com/QQber/classification-case-creditcard/blob/master/creditcards-classification.ipynb)
 * [Tableau Workbook](https://github.com/QQber/classification-case-creditcard/blob/master/Creditcards-Project.twb)
 * [Mysql Workbench](https://github.com/QQber/classification-case-creditcard/blob/master/SQL_questions.sql)
-* [Powerpoint Presentation](link)
+* [Powerpoint Presentation](https://github.com/QQber/classification-case-creditcard/blob/master/Presentation-Creditcard.pptx)
 * [Original Data Excel](https://github.com/QQber/classification-case-creditcard/blob/master/creditcardmarketing.csv)
 
 
