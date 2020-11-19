@@ -40,6 +40,7 @@ Decision Tree, Naive bayesian classification and KNN Classification. Decided to 
 * [Tableau Workbook](link)
 * [Mysql Workbench](link)
 * [Powerpoint Presentation](link)
+* [Original Data Excel](link)
 
 
 ## Contact
