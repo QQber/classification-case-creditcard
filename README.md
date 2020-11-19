@@ -40,7 +40,7 @@ Decision Tree, Naive bayesian classification and KNN Classification. Decided to 
 * [Tableau Workbook](link)
 * [Mysql Workbench](link)
 * [Powerpoint Presentation](link)
-* [Original Data Excel](link)
+* [Original Data Excel](https://github.com/QQber/classification-case-creditcard/blob/master/creditcardmarketing.csv)
 
 
 ## Contact
