@@ -1,7 +1,7 @@
 # Classification Machine learninng for a Bank Credit Card offer
 This project is a part of the [IRON HACK](http://https://www.ironhack.com/en) at Berlin Data Camo. Other Bootcamp projects can be found at the [main GitHub repo](https://https://github.com/QQber).
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is Build a model that will provide insight into why some bank customers accept credit card offers. There are also other potential areas of opportunities that the bank wants to understand from the data.
